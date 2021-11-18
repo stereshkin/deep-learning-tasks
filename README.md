@@ -1,2 +1,2 @@
 # deep-learning-tasks
-A repository with deep learning problems
+A repository with machine learning assignments
